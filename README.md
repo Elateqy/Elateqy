@@ -67,18 +67,12 @@ Tech: Node.js, Express, MongoDB
 - Database Integration  
 Tech: Node.js, Express, MongoDB
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedElateqy&show_icons=true&theme=tokyonight" />
-</p>
 
 ---
 
 ### 🔗 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/your-link
-- 📧 Email: your@email.com
+- 💼 LinkedIn: www.linkedin.com/in/ahmed-elateqy-ae
+- 📧 Email: ah.elateqy@gmail.com
 
 ---
 
